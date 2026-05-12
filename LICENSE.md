@@ -1,4 +1,4 @@
-# 
+# premium Polymarket Module | leverage-trading + volatility-detection offers the most advanced Polymarket module, with leverage-trading and volatility-detection. Ideal for
 
 
 
